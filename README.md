@@ -1,6 +1,6 @@
 # Taller Integrador 2 + 3: Persistencia y sincronización
 
-Desarrollo Móvil, 2026-2.
+Desarrollo Móvil
 
 ## Integrantes
 
